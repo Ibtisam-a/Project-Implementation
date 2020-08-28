@@ -2,9 +2,15 @@
  
  
  Kronecker Product
+ 
  Bartels-Stewart Algorithm
+ 
  Similarity Transformation
+ 
  Shifted System 
+ 
  Gradient Based Method
+ 
  Modified Conjugate Gradient
+ 
  Preconditioned MCG
