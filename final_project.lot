@@ -1,0 +1,12 @@
+\contentsline {table}{\numberline {1}{\ignorespaces Initial project plan.\relax }}{9}%
+\contentsline {table}{\numberline {2}{\ignorespaces Revised project plan.\relax }}{9}%
+\contentsline {table}{\numberline {3}{\ignorespaces Results obtained from solving the linear system $\mathcal {T} u = f$ using the direct solver \texttt {sparse.linalg.spsolve}.\relax }}{17}%
+\contentsline {table}{\numberline {4}{\ignorespaces Results obtained from solving the \texttt {linalg.solve\_sylvester}.\relax }}{21}%
+\contentsline {table}{\numberline {5}{\ignorespaces Results obtained from solving the Bartels–Stewart Algorithm.\relax }}{21}%
+\contentsline {table}{\numberline {6}{\ignorespaces The time for each step of the Schur decompositions in different time steps using Bartels–Stewart Algorithm.\relax }}{22}%
+\contentsline {table}{\numberline {7}{\ignorespaces Results computing the eigenpairs by \texttt {Numpy.linalg.eig}.\relax }}{24}%
+\contentsline {table}{\numberline {8}{\ignorespaces The time of each step, computing the eigenvalues and eigenvectors by \texttt {numpy.linalg.eig}.\relax }}{25}%
+\contentsline {table}{\numberline {9}{\ignorespaces Results solving $n$ linear systems by \texttt {sparse.linalg.spsolve}.\relax }}{27}%
+\contentsline {table}{\numberline {10}{\ignorespaces The time of each step to solve $n$ linear systems.\relax }}{28}%
+\contentsline {table}{\numberline {11}{\ignorespaces Results obtained from solving Gradient-based method.\relax }}{30}%
+\contentsline {table}{\numberline {12}{\ignorespaces Results obtained from solving Preconditioned MCG.\relax }}{36}%
