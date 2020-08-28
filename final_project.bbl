@@ -1,0 +1,194 @@
+\begin{thebibliography}{10}
+
+\bibitem{Abubakar}
+A.~B. Abubakar, P.~Kumam, A.~M. Awwal, and P.~Thounthong.
+\newblock A modified self-adaptive conjugate gradient method for solving convex
+  constrained monotone nonlinear equations for signal recovery problems.
+\newblock 7:693, 2019.
+
+\bibitem{Ali}
+F.~P. Ali~Beik, F.~S. Movahed, and S.~Ahmadi‐Asl.
+\newblock On the krylov subspace methods based on tensor format for positive
+  definite sylvester tensor equations. numerical linear algebra with
+  applications.
+\newblock 23:444--466, 2016.
+
+\bibitem{Ames}
+W.~F. Ames.
+\newblock {\em Numerical Methods for Partial Differential Equations.}
+\newblock Third edition, 1992.
+
+\bibitem{Arbenz}
+P.~Arbenz.
+\newblock Numerical methods for solving large scale eigenvalue problems, 2014.
+
+\bibitem{Asari}
+S.~S. Asari and M.~Amirfakhrian.
+\newblock Numerical solution of sylvester matrix equations: application to
+  dynamical systems.
+\newblock {\em Journal of Interpolation and Approximation in Scientific
+  Computing}, pages 1--13, 2016.
+
+\bibitem{Bartels}
+R.~H. Bartels and G.~W. Stewart.
+\newblock {S}olution of the {M}atrix {E}quation {AX + XB = C}.
+\newblock {\em Commun. ACM}, 15:820--826, 1972.
+
+\bibitem{Bentbib}
+A.~H. Bentbib, S.~El-Halouy, and E.~M. Sadek.
+\newblock Krylov subspace projection method for sylvester tensor equation with
+  low rank right-hand side. numerical algorithms.
+\newblock pages 1--20, 2020.
+
+\bibitem{Castelan}
+E.~B. Castelan and V.~G. da~Silva.
+\newblock On the solution of a {S}ylvester equation appearing in descriptor
+  systems control theory.
+\newblock {\em Systems \& Control Letters}, 54(2):109 -- 117, 2005.
+
+\bibitem{Chiang}
+C.~Y. Chiang.
+\newblock On the sylvester-like matrix equation ax+ f (x) b= c.
+\newblock {\em Journal of the Franklin Institute}, 353:1061--1074, 2016.
+
+\bibitem{Cools}
+S.~Cools, J.~Cornelis, P.~Ghysels, and W.~Vanroose.
+\newblock Improving the strong scaling of the conjugate gradient method for
+  solving large linear systems using global reduction pipelining.
+\newblock 2019.
+
+\bibitem{Dehghan}
+M.~Dehghan.
+\newblock Fully implicit finite differences methods for two-dimensional
+  diffusion with a non-local boundary condition.
+\newblock {\em Journal of Computational and Applied Mathematics}, 106:255--269,
+  1999.
+
+\bibitem{DD}
+N.~Din\textasciicaron{c}i\textasciiacute{c}.
+\newblock Solving the sylvester equation ax-xb= c when $\sigma$ (a)$\cap\sigma$
+  (b)$\neq\emptyset$.
+\newblock {\em Electronic Journal of Linear Algebra.}, 35:1--23, 2019.
+
+\bibitem{Ge}
+Z.~Ge, F.~Ding, L.~Xu, A.~Alsaedi, and T.~Hayat.
+\newblock Gradient-based iterative identification method for multivariate
+  equation-error autoregressive moving average systems using the decomposition
+  technique.
+\newblock {\em Journal of the Franklin Institute}, 356:1658--1676, 2019.
+
+\bibitem{Hodel}
+A.~S. Hodel and P.~Misra.
+\newblock Solution of underdetermined {S}ylvester equations in sensor array
+  signal processing.
+\newblock {\em Linear Algebra and its Applications}, 249(1):1 -- 14, 1996.
+
+\bibitem{Hou}
+J.~Hou, Q.~Lv, and M.~Xiao.
+\newblock A parallel preconditioned modified conjugate gradient method for
+  large sylvester matrix equation.
+\newblock {\em Mathematical Problems in Engineering}, 2014:1--7, 03 2014.
+
+\bibitem{Jarlebring}
+E.~Jarlebring.
+\newblock Qr algorithm., 2014.
+
+\bibitem{Kalantarova}
+N.~Kalantarova.
+\newblock Spectral properties of structured kronecker products and their
+  applications.
+\newblock 2019.
+
+\bibitem{Laub}
+A.~J. Laub.
+\newblock {\em Matrix Analysis For Scientists And Engineers}.
+\newblock Society for Industrial and Applied Mathematics, Philadelphia, PA,
+  USA, 2004.
+
+\bibitem{Li1}
+L.~Li and D.~Xu.
+\newblock Alternating direction implicit-euler method for the two-dimensional
+  fractional evolution equation.
+\newblock {\em Journal of Computational Physics}, 236:157--168, 2013.
+
+\bibitem{Li}
+Y.~Li, J.~Zhu, S.~C. Hoi, W.~Song, Z.~Wang, and H.~Liu.
+\newblock Robust estimation of similarity transformation for visual object
+  tracking.
+\newblock 33:8666--8673, 2019.
+
+\bibitem{Moghrabi}
+I.~A. Moghrabi.
+\newblock A new preconditioned conjugate gradient method for optimization.
+\newblock {\em IAENG International Journal of Applied Mathematic}, 49:1--8,
+  2019.
+
+\bibitem{Morton}
+K.~Morton and D.~Mayers.
+\newblock {\em Numerical Solution of Partial Differential Equations: An
+  Introduction.}
+\newblock 1994.
+
+\bibitem{Najafi-Kalyani}
+M.~Najafi-Kalyani, F.~P.~A. Beik, and K.~Jbilou.
+\newblock On global iterative schemes based on hessenberg process for
+  (ill-posed) sylvester tensor equations.
+\newblock {\em Journal of Computational and Applied Mathematics}, 373, 2020.
+
+\bibitem{Neri}
+F.~Neri.
+\newblock Linear algebra for computational sciences and engineering.
+\newblock pages 1--567, 2019.
+
+\bibitem{Prokip_2019}
+V.~Prokip.
+\newblock On solvability of the matrix equation ax – xb = c over integer
+  rings.
+\newblock {\em Modeling, Control and Information Technologies: Proceedings of
+  International scientific and practical conference}, (3):55--58, Nov. 2019.
+
+\bibitem{Recktenwald}
+G.~A. Recktenwald.
+\newblock Finite-difference approximations to the heat equation.
+\newblock 2011.
+
+\bibitem{Shao}
+L.~Shao, F.~Zhao, and G.~Hu.
+\newblock A numerical method for the approximation of reachable sets of linear
+  control systems.
+\newblock {\em IMA Journal of Mathematical Control and Information},
+  36:423--441, 2019.
+
+\bibitem{Simoncini}
+V.~Simoncini.
+\newblock Computational methods for linear matrix equations.
+\newblock {\em SIAM Review}, 58:377--441, 01 2016.
+
+\bibitem{Mathworld}
+E.~Weisstein.
+\newblock Similarity transformation.
+\newblock 2020.
+
+\bibitem{Willems}
+J.~Willems, S.~Hara, Y.~Ohta, and H.~Fujioka.
+\newblock Perspectives in mathematical system theory, control, and signal
+  processing.
+\newblock {\em Journal of Computational and Applied Mathematics}, 2010.
+
+\bibitem{Ai-Guo}
+A.~G. Wu, G.~Feng, G.~R. Duan, and W.~J. Wu.
+\newblock Closed-form solutions to sylvester-conjugate matrix equations.
+\newblock {\em Computers and Mathematics with Applications}, 60:95--111, 2010.
+
+\bibitem{Zhang}
+H.~Zhang and F.~Ding.
+\newblock Research article on the kronecker products and their applications.
+\newblock {\em Journal ofApplied Mathematics}, pages 1--8, 2013.
+
+\bibitem{ZhangW}
+W.~Zhang and D.~Zhou.
+\newblock Coupled iterative algorithms based on optimization for solving
+  sylvester matrix equations.
+\newblock {\em IET Control Theory and Applications}, 13:584--593.
+
+\end{thebibliography}

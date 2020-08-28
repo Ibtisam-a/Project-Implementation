@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Introduction}{1}%
+\contentsline {subsection}{\numberline {1.1}Heat Equation}{1}%
+\contentsline {subsection}{\numberline {1.2}Sylvester Equation}{6}%
+\contentsline {subsection}{\numberline {1.3}Project Structure}{7}%
+\contentsline {section}{\numberline {2}Scope and Schedule}{8}%
+\contentsline {subsection}{\numberline {2.1}Aim}{8}%
+\contentsline {subsection}{\numberline {2.2}Objectives}{8}%
+\contentsline {subsection}{\numberline {2.3}Deliverables}{8}%
+\contentsline {subsection}{\numberline {2.4}Planning and Project Management}{8}%
+\contentsline {subsubsection}{\numberline {2.4.1}Initial Plan}{9}%
+\contentsline {subsubsection}{\numberline {2.4.2}Revised Plan}{9}%
+\contentsline {subsection}{\numberline {2.5}Methodology}{9}%
+\contentsline {subsection}{\numberline {2.6}Risk Assessment}{10}%
+\contentsline {section}{\numberline {3}Matrix Solvers}{11}%
+\contentsline {subsection}{\numberline {3.1}Overview}{15}%
+\contentsline {subsection}{\numberline {3.2}Direct Methods}{15}%
+\contentsline {subsubsection}{\numberline {3.2.1}Kronecker Product }{15}%
+\contentsline {subsubsection}{\numberline {3.2.2}Bartels–Stewart Algorithm}{18}%
+\contentsline {subsubsection}{\numberline {3.2.3}Similarity Transformation}{23}%
+\contentsline {subsubsection}{\numberline {3.2.4}Shifted System}{26}%
+\contentsline {subsection}{\numberline {3.3}Iterative Methods}{29}%
+\contentsline {subsubsection}{\numberline {3.3.1}Gradient Based Method}{29}%
+\contentsline {subsubsection}{\numberline {3.3.2}Modified Conjugate Gradient}{31}%
+\contentsline {subsubsection}{\numberline {3.3.3}Preconditioned MCG}{33}%
+\contentsline {subsection}{\numberline {3.4}Conclusion}{37}%
+\contentsline {section}{\numberline {4}Evaluation}{40}%
+\contentsline {subsection}{\numberline {4.1}Aims and Objectives}{40}%
+\contentsline {subsection}{\numberline {4.2}Future Extension}{40}%
+\contentsline {subsection}{\numberline {4.3}Personal Reflection}{41}%
+\contentsline {section}{Appendices}{45}%
+\contentsline {section}{\numberline {A}External Materials}{45}%
+\contentsline {section}{\numberline {B}Ethical Issuses}{46}%
